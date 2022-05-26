@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Form1.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Form2.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Form3.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Form4.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Form5.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.Properties.Resources.resources
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\bin\Debug\Exercise_ira.exe.config
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\bin\Debug\Exercise_ira.exe
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\bin\Debug\Exercise_ira.pdb
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.exe
+C:\Users\user\source\repos\Exercise_ira\Exercise_ira\obj\Debug\Exercise_ira.pdb
